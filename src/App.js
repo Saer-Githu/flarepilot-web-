@@ -1207,7 +1207,7 @@ export default function App() {
               letterSpacing: -0.5,
             }}
           >
-            🔥 FLAREPILOT
+            🔥 Bihorns FLAREPILOT By Saer
           </span>
           <span style={{ fontSize: 10, color: "#475569" }}>
             Combustion System Designer · v3
